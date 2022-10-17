@@ -1,8 +1,8 @@
 # Shinobi Pure Components
-<pre>
+<div>
   If you are looking for pure css components such as Modal, Notification etc, you can reuse these components. ( Styled Compoenents ).
   Shows how to use styled components to create modals, notifications, and other components.
-</pre>
+</div>
 <br>
 <br>
 <br>
